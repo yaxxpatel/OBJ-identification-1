@@ -1,0 +1,8 @@
+canvas
+{
+    border: 10px;
+    border-color: black;
+    box-shadow: 5px 5px 5px gray;
+    background-color: cornflowerblue;
+    bottom: 0;
+}
